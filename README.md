@@ -3,7 +3,7 @@
 
 This project predicts whether a student will pass or fail based on their academic performance using a Random Forest Classifier.
 
-## 📊 Project Overview
+##  Project Overview
 The goal of this project is to build a classification model that determines whether a student will pass based on their **math**, **reading**, and **writing** scores.
 
 We use the `StudentsPerformance.csv` dataset and define a new column `passed` where:
@@ -93,3 +93,4 @@ Matplotlib
 # Author
 Ali Shahab Pour
 alishahabpour19@gmail.com
+
